@@ -36,4 +36,4 @@ class Mathematics {
 
 // Call Scratch.extensions.register to register your extension
 // Make sure to register each extension exactly once
-Scratch.extensions.register(new MyExtension());
+Scratch.extensions.register(new Mathematics());
